@@ -1,8 +1,8 @@
 {
-    "ip": "katyty.aternos.me",
-    "port": "",
+    "ip": "gapsansmp3.aternos.me",
+    "port": "34023",
     "password": "",
-    "prefix": "",
+    "prefix": "1",
     "login-enabled": "false",
     "register-cmd": "/login kartikopp kartikopp",
     "login-cmd": "/login kartikopp",
